@@ -1,2 +1,3 @@
 Hello world
-Hi
+Hi again
+I added a new line
