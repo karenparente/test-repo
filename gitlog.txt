@@ -1,5 +1,0 @@
-commit 65f3ecaa5a233d367afb7b443745490eaecb4b08
-Author: karenparente <kah.parente@gmail.com>
-Date:   Fri May 29 15:46:15 2020 -0300
-
-    Added 3 files

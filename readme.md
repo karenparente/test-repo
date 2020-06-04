@@ -1,28 +1,29 @@
-# This is a large heading
+# Karen Parente
 
-## This is a smaller heading
+## Adress
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+Currently living in her house in Curitiba, Brazil.
 
-- This is
-- an unordered
-- list
+## Profession
 
-1. This is
-2. an ordered
-3. list
+Studying Medicine at UFPR. Passionate about computer engineering.
 
-Here is `some code` in the middle of a sentence.
+## Social media
+- [Instagram](https://instagram.com/kahparente)
+- [Twitter](https://twitter.com/kahparente)
+- ~~Tiktok~~
+- ~~LinkedIn~~
+
+## A quote
 
 ```
-This is
-a block
-of code
+To be great is never to fear the unknown
 ```
 
-Here is how you make [a link](https://www.wikipedia.org/).
+## A simple code 
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+`echo "Hello world!"`
+
+## K, bye
+
+*Bye!*
