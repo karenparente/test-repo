@@ -20,10 +20,8 @@ Studying Medicine at UFPR. Passionate about computer engineering.
 To be great is never to fear the unknown
 ```
 
-## A simple code 
+## Modification
 
-`echo "Hello world!"`
+I just modified here
 
-## K, bye
 
-*Bye!*
